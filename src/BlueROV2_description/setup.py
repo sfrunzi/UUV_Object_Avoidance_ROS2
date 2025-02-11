@@ -14,8 +14,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='safrunzi',
-    maintainer_email='safrunzi@todo.todo',
-    description='TODO: Package description',
+    maintainer_email='saf359@drexel.edu',
+    description='This package contains description and gazebo files for the UUV BlueROV2 by Blue Robotics. This is based on the following repository: https://github.com/UUVControl/bluerov2',
     license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
